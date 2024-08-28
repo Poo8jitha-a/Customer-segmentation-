@@ -1,2 +1,2 @@
-# Customer-segmentation-
-Data science project 1- zidio development
+# Customer-segmentation-Data science project 1- zidio development
+Unsupervised ML project on the data"Ecommerce customers" which was carried out using KMeans clustering algorithm. The numberof clusters was finalisedusing elbow visualization and the silhouette score was also found. Libraries used: Pandas, Numpy,Matplotlib,Scikit-learn, Tools and Techniques used- KMeans,MinMaxScaler, Silhoutte scoreand elbow visualizer
